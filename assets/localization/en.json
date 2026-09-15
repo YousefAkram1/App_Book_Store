@@ -1,0 +1,17 @@
+{
+  "bookStore": "Book Store",
+  "splashTextTitle": "Read your\nfavourite book\nfrom here.",
+  "splashTextSubtitle": "Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry.",
+  "splashButtonText": "Get Started",
+  "aboutTheAuther": "About the author",
+  "overView": "Overview",
+  "bookDetailsButton": "Show the book",
+  "rateText": "4.5",
+  "home": "Home",
+  "explore": "Explore",
+  "profile": "Profile",
+  "saved": "Saved",
+  "bestSellingBooks": "Best selling books",
+  "trendingNow": "Trending Now",
+  "price": "Price"
+}

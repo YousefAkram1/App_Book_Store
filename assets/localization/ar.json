@@ -1,0 +1,17 @@
+{
+  "bookStore": "متجر الكتب",
+  "splashTextTitle": "اقرأ كتابك\nالمفضل\nمن هنا.",
+  "splashTextSubtitle": "هذا نص تجريبي يُستخدم لعرض شكل النص\nوتنسيقه داخل التطبيق.",
+  "splashButtonText": "ابدأ الآن",
+  "aboutTheAuther": "عن المؤلف",
+  "overView": "نظرة عامة",
+  "bookDetailsButton": "عرض الكتاب",
+  "rateText": "4.5",
+  "home": "الرئيسية",
+  "explore": "استكشف",
+  "profile": "الملف الشخصي",
+  "saved": "المحفوظات",
+  "bestSellingBooks": "الكتب الأكثر مبيعًا",
+  "trendingNow": "الأكثر رواجًا",
+  "price": "السعر"
+}
