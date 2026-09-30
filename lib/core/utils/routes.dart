@@ -1,7 +1,7 @@
 import 'package:book_store_app/feature/home/data/repo/home_repo_imp.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/best_sell_book_cubit/book_sell_cubit.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/book_details_cubit/book_details_cubit.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/new_books_cubit/book_new_cubit.dart';
+import 'package:book_store_app/feature/home/data/cubit/best_sell_book_cubit/book_sell_cubit.dart';
+import 'package:book_store_app/feature/home/data/cubit/book_details_cubit/book_details_cubit.dart';
+import 'package:book_store_app/feature/home/data/cubit/new_books_cubit/book_new_cubit.dart';
 import 'package:book_store_app/feature/home/presentation/views/book_details.dart';
 import 'package:book_store_app/feature/home/presentation/views/home_view.dart';
 import 'package:book_store_app/feature/splash/presentation/views/splash_view.dart';

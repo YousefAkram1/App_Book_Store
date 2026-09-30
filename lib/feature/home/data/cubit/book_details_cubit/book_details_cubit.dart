@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:book_store_app/feature/home/data/repo/home_repo.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/book_details_cubit/book_details_state.dart';
+import 'package:book_store_app/feature/home/data/cubit/book_details_cubit/book_details_state.dart';
 
 class BookDetailsCubit extends Cubit<BookDetailsStatue> {
   BookDetailsCubit(this.homeRepo) : super(BookDetailsLoadingState());

@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:book_store_app/feature/home/data/repo/home_repo.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/best_sell_book_cubit/book_sell_statues.dart';
+import 'package:book_store_app/feature/home/data/cubit/best_sell_book_cubit/book_sell_statues.dart';
 
 class BookSellCubit extends Cubit<BookStatue> {
   BookSellCubit(this.homeRepo) : super(const BookStatue());

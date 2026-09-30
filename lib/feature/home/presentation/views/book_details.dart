@@ -1,8 +1,8 @@
 import 'package:book_store_app/core/utils/app_colors.dart';
 import 'package:book_store_app/core/utils/font_style.dart';
 import 'package:book_store_app/core/widgets/book_details_shimmer.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/book_details_cubit/book_details_cubit.dart';
-import 'package:book_store_app/feature/home/presentation/cubit/book_details_cubit/book_details_state.dart';
+import 'package:book_store_app/feature/home/data/cubit/book_details_cubit/book_details_cubit.dart';
+import 'package:book_store_app/feature/home/data/cubit/book_details_cubit/book_details_state.dart';
 import 'package:book_store_app/feature/home/presentation/widgets/book_details_widgets/book_details_body.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
